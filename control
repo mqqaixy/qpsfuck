@@ -1,0 +1,9 @@
+Package: com.yourname.fakelocationtest
+Name: Fake Location Test
+Version: 1.0
+Architecture: iphoneos-arm64e
+Description: TrollStore rootless 虚拟定位测试插件
+Maintainer: YourName
+Author: YourName
+Section: Tweaks
+Depends: preferenceloader
